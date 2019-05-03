@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practico2</string>
+    <string name="Votar">Votar</string>
+    <string name="Spiderman">Spiderman</string>
+    <string name="IronMan">Ironman</string>
+    <string name="CapitanAmerica">Capitán América</string>
+    <string name="CapitanaMarvel">Capitana Marvel</string>
+    <string name="Hulk">Hulk</string>
+    <string name="LaViudaNegra">La Viuda Negra</string>
+    <string name="Thor">Thor</string>
+    <string name="DoctorStrange">Doctor Strange</string>
+    <string name="TodoElPublico">Todo el público</string>
+    <string name="MujeresAdultas">Mujeres adultas</string>
+    <string name="HombresAdultos">Hombres adultos</string>
+    <string name="HombresAdolecentes">Hombres adolecentes</string>
+    <string name="MujeresAdolecentes">Mujeres adolecentes</string>
+    <string name="Niños">Niños</string>
+    <string name="VotarHeroe">Vota por tu heroe favorito:</string>
+    <string name="VotoGrupo">Grupo preferido:</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Aceptar">Aceptar</string>
+    <string name="Todos">Todos</string>
+    <string name="Filtrar">Filtrar</string>
+</resources>
